@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Your Segmind API key
-API_KEY = "SG_776dee56a8261fcd"
+API_KEY = "API KEY"
 SEGMENT_API_URL = "https://api.segmind.com/v1/fashion-ai"
 
 @app.route('/')

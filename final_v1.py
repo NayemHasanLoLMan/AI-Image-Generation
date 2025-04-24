@@ -5,7 +5,7 @@ import json
 import time
 
 # API key
-api_key = '4d2b892c537049d590ebd57afd9e5e63_c8b49c32d0f04da69d450dcedae2dd87_andoraitools'
+api_key = 'API KEY'
 
 def get_order_status():
     # Step 1: Send the initial request to get the order ID

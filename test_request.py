@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your actual API key
-api_key = "SG_776dee56a8261fcd"
+api_key = "API kEY"
 url = "https://api.segmind.com/v1/fashion-ai"
 
 # Prepare data and files
